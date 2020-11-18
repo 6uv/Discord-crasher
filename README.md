@@ -1,7 +1,7 @@
 # Discord Client Crasher
 
 ```bash
- '         '                        
+                        '         '                        
                         :         :                        
                         $         $                        
                         $.       .$                        
