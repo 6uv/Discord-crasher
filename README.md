@@ -47,4 +47,4 @@ _.  d$$$    $$$$P     d$$$       $$$b     T$$$$    $$$b  ._
 # DiscordClientCrasher
  A crash exploit recently found that completely and instantly crashes a users discord client. Browsers and mobile devices are excluded, may not work against users who use modified clients such as "powercord" but will work against those who use BetterDiscord, EnhancedDiscord, etc.
 
-# (Credit)[https://github.com/Yaekith/DiscordClientCrasher]
+# [Credit](https://github.com/Yaekith/DiscordClientCrasher)
